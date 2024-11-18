@@ -51,7 +51,7 @@ Aqui estão alguns tópicos interessantes que você encontrará:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ml-notes-and-projects.git
+   git clone https://github.com/diogobrasil/machine-learning.git
    ```
 2. Navegue pelas pastas e abra os notebooks no Jupyter ou Colab.
 
