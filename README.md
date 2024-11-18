@@ -43,6 +43,7 @@ Aqui estão alguns tópicos interessantes que você encontrará:
 - **Regressão Logística**
 - **Arvores de Decisão**
 - **Unsupervised Learning**
+- **Projeto de ML que prediz preços de imóveis em SP**
 
 ---
 
@@ -66,8 +67,8 @@ Contribuições são super bem-vindas! Sinta-se à vontade para abrir **issues**
 
 Se você tiver dúvidas ou quiser trocar ideias sobre Machine Learning, entre em contato comigo:
 
-- **LinkedIn**: [Seu Nome](https://www.linkedin.com/in/seu-perfil)
-- **GitHub**: [seu-usuario](https://github.com/seu-usuario)
+- **LinkedIn**: [Diogo Brasil](https://www.linkedin.com/in/diogo-brasil-da-silva-b55482257)
+- **GitHub**: [diogobrasil](https://github.com/diogobrasil)
 
 ---
 
