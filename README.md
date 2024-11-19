@@ -13,7 +13,8 @@ Este repositório foi criado para:
 - 💡 Compartilhar **códigos de projetos e exercícios** desenvolvidos durante cursos, desafios e estudos autônomos.
 - 🤝 Ajudar outros estudantes e profissionais interessados em Machine Learning.
 
-Se você está começando ou quer explorar conceitos específicos, fique à vontade para explorar e contribuir! 😊
+Se você está começando ou quer explorar conceitos específicos, fique à vontade para explorar e contribuir! 😊  
+Comece explorando os projetos praticos: [Predição de Preços de Apartamentos em São Paulo](./apartment_price_prediction/apartment_price_prediction.ipynb) e [MNIST](./mnist/mnist.ipynb).
 
 ---
 
