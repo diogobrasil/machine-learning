@@ -14,7 +14,7 @@ Este repositório foi criado para:
 - 🤝 Ajudar outros estudantes e profissionais interessados em Machine Learning.
 
 Se você está começando ou quer explorar conceitos específicos, fique à vontade para explorar e contribuir! 😊  
-Comece explorando os projetos praticos: [Predição de Preços de Apartamentos em São Paulo](./apartment_price_prediction/apartment_price_prediction.ipynb) e [MNIST](./mnist/mnist.ipynb).
+Comece explorando os projetos práticos: [Predição de Preços de Apartamentos em São Paulo](./apartment_price_prediction/apartment_price_prediction.ipynb) e [MNIST](./mnist/mnist.ipynb).
 
 ---
 
